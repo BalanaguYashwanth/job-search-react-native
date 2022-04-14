@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "mediaproject",
+    "slug": "mediaproject",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.aspire.jobsaspirings",
+      "versionCode": 1,
+      "config": {
+        "googleSignIn": {
+          "apiKey": "",
+          "certificateHash": ""
+        }
+      },
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra":{
+      "IOS_KEY": "<generated_client_id>",
+      "ANDROID_KEY": ""
+    }
+  }
+}
+
+
+
