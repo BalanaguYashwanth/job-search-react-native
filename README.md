@@ -1,1 +1,1 @@
-React-Native Video Job Search
+React-Native Video Job Search App
